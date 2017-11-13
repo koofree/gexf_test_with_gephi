@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-11-13">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="string"></attribute>
+      <attribute id="weight" title="Weight" type="float"></attribute>
+      <attribute id="source" title="Source" type="string"></attribute>
+      <attribute id="target" title="Target" type="string"></attribute>
+      <attribute id="type" title="Type" type="string"></attribute>
+      <attribute id="category" title="Category" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="top" title="Top" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="간호학부">
+        <attvalues>
+          <attvalue for="degree" value="1.395"></attvalue>
+          <attvalue for="weight" value="1.395"></attvalue>
+          <attvalue for="category" value="간호대"></attvalue>
+        </attvalues>
+        <viz:size value="25.520504"></viz:size>
+        <viz:position x="408.39014" y="-482.78824"></viz:position>
+        <viz:color r="129" g="78" b="25"></viz:color>
+      </node>
+      <node id="1" label="경영학부">
+        <attvalues>
+          <attvalue for="degree" value="1.84"></attvalue>
+          <attvalue for="weight" value="1.84"></attvalue>
+          <attvalue for="category" value="경영대"></attvalue>
+        </attvalues>
+        <viz:size value="44.237648"></viz:size>
+        <viz:position x="486.70667" y="453.38644"></viz:position>
+        <viz:color r="81" g="206" b="0"></viz:color>
+      </node>
+      <node id="2" label="과학교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.693"></attvalue>
+          <attvalue for="weight" value="1.693"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="38.05468"></viz:size>
+        <viz:position x="-698.37274" y="-264.97626"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="3" label="교육공학과">
+        <attvalues>
+          <attvalue for="degree" value="1.355"></attvalue>
+          <attvalue for="weight" value="1.355"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="23.838066"></viz:size>
+        <viz:position x="870.35645" y="212.06894"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="4" label="교육학과">
+        <attvalues>
+          <attvalue for="degree" value="1.82"></attvalue>
+          <attvalue for="weight" value="1.82"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="43.396427"></viz:size>
+        <viz:position x="1106.6665" y="-13.02042"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="5" label="국어교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.626"></attvalue>
+          <attvalue for="weight" value="1.626"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="35.236595"></viz:size>
+        <viz:position x="-397.80234" y="819.3744"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="6" label="사회과교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.977"></attvalue>
+          <attvalue for="weight" value="1.977"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="222.67345" y="509.41928"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="7" label="수학교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.403"></attvalue>
+          <attvalue for="weight" value="1.403"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="25.85699"></viz:size>
+        <viz:position x="-1000.78595" y="-994.8607"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="8" label="영어교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.298"></attvalue>
+          <attvalue for="weight" value="1.298"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="21.440586"></viz:size>
+        <viz:position x="-383.31635" y="997.8728"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="9" label="유아교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.135"></attvalue>
+          <attvalue for="weight" value="1.135"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="14.584646"></viz:size>
+        <viz:position x="1700.0111" y="-433.80188"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="10" label="초등교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.524"></attvalue>
+          <attvalue for="weight" value="1.524"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="30.946373"></viz:size>
+        <viz:position x="1428.1461" y="-379.9937"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="11" label="특수교육과">
+        <attvalues>
+          <attvalue for="degree" value="1.181"></attvalue>
+          <attvalue for="weight" value="1.181"></attvalue>
+          <attvalue for="category" value="사범대"></attvalue>
+        </attvalues>
+        <viz:size value="16.519451"></viz:size>
+        <viz:position x="1050.3701" y="-279.24005"></viz:position>
+        <viz:color r="197" g="171" b="0"></viz:color>
+      </node>
+      <node id="12" label="경제학과">
+        <attvalues>
+          <attvalue for="degree" value="1.344"></attvalue>
+          <attvalue for="weight" value="1.344"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="23.375393"></viz:size>
+        <viz:position x="372.52368" y="392.67783"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="13" label="문헌정보학과">
+        <attvalues>
+          <attvalue for="degree" value="1.214"></attvalue>
+          <attvalue for="weight" value="1.214"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="17.907465"></viz:size>
+        <viz:position x="-289.18796" y="61.577"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="14" label="사회복지학과">
+        <attvalues>
+          <attvalue for="degree" value="1.329"></attvalue>
+          <attvalue for="weight" value="1.329"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="22.74448"></viz:size>
+        <viz:position x="370.53687" y="175.73322"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="15" label="사회학과">
+        <attvalues>
+          <attvalue for="degree" value="1.903"></attvalue>
+          <attvalue for="weight" value="1.903"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="46.887486"></viz:size>
+        <viz:position x="242.15186" y="318.9446"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="16" label="소비자학과">
+        <attvalues>
+          <attvalue for="degree" value="1.362"></attvalue>
+          <attvalue for="weight" value="1.362"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="24.132492"></viz:size>
+        <viz:position x="587.8972" y="122.04967"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="17" label="심리학과">
+        <attvalues>
+          <attvalue for="degree" value="1.444"></attvalue>
+          <attvalue for="weight" value="1.444"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="27.581493"></viz:size>
+        <viz:position x="446.61826" y="-15.206743"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="18" label="정치외교학과">
+        <attvalues>
+          <attvalue for="degree" value="1.335"></attvalue>
+          <attvalue for="weight" value="1.335"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="22.996845"></viz:size>
+        <viz:position x="18.059324" y="454.57352"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="19" label="커뮤니케이션.미디어학부">
+        <attvalues>
+          <attvalue for="degree" value="1.823"></attvalue>
+          <attvalue for="weight" value="1.823"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="43.522606"></viz:size>
+        <viz:position x="717.4776" y="534.47284"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="20" label="행정학과">
+        <attvalues>
+          <attvalue for="degree" value="1.603"></attvalue>
+          <attvalue for="weight" value="1.603"></attvalue>
+          <attvalue for="category" value="사회과학대"></attvalue>
+        </attvalues>
+        <viz:size value="34.26919"></viz:size>
+        <viz:position x="279.4931" y="447.85846"></viz:position>
+        <viz:color r="255" g="125" b="255"></viz:color>
+      </node>
+      <node id="21" label="국제학부">
+        <attvalues>
+          <attvalue for="degree" value="1.938"></attvalue>
+          <attvalue for="weight" value="1.938"></attvalue>
+          <attvalue for="category" value="스크랜튼대"></attvalue>
+        </attvalues>
+        <viz:size value="48.35962"></viz:size>
+        <viz:position x="75.71166" y="563.60455"></viz:position>
+        <viz:color r="255" g="126" b="26"></viz:color>
+      </node>
+      <node id="22" label="융합학부">
+        <attvalues>
+          <attvalue for="degree" value="1.142"></attvalue>
+          <attvalue for="weight" value="1.142"></attvalue>
+          <attvalue for="category" value="스크랜튼대"></attvalue>
+        </attvalues>
+        <viz:size value="14.879072"></viz:size>
+        <viz:position x="-791.20874" y="-428.364"></viz:position>
+        <viz:color r="255" g="126" b="26"></viz:color>
+      </node>
+      <node id="23" label="국제사무학과">
+        <attvalues>
+          <attvalue for="degree" value="1.547"></attvalue>
+          <attvalue for="weight" value="1.547"></attvalue>
+          <attvalue for="category" value="신산업융합대"></attvalue>
+        </attvalues>
+        <viz:size value="31.913776"></viz:size>
+        <viz:position x="727.90643" y="389.31293"></viz:position>
+        <viz:color r="203" g="197" b="171"></viz:color>
+      </node>
+      <node id="24" label="식품영양학과">
+        <attvalues>
+          <attvalue for="degree" value="1.508"></attvalue>
+          <attvalue for="weight" value="1.508"></attvalue>
+          <attvalue for="category" value="신산업융합대"></attvalue>
+        </attvalues>
+        <viz:size value="30.273397"></viz:size>
+        <viz:position x="-501.88885" y="-641.02435"></viz:position>
+        <viz:color r="203" g="197" b="171"></viz:color>
+      </node>
+      <node id="25" label="융합보건학과">
+        <attvalues>
+          <attvalue for="degree" value="1.632"></attvalue>
+          <attvalue for="weight" value="1.632"></attvalue>
+          <attvalue for="category" value="신산업융합대"></attvalue>
+        </attvalues>
+        <viz:size value="35.48896"></viz:size>
+        <viz:position x="564.6755" y="-256.9953"></viz:position>
+        <viz:color r="203" g="197" b="171"></viz:color>
+      </node>
+      <node id="26" label="융합콘텐츠학과">
+        <attvalues>
+          <attvalue for="degree" value="1.582"></attvalue>
+          <attvalue for="weight" value="1.582"></attvalue>
+          <attvalue for="category" value="신산업융합대"></attvalue>
+        </attvalues>
+        <viz:size value="33.38591"></viz:size>
+        <viz:position x="498.2822" y="264.98993"></viz:position>
+        <viz:color r="203" g="197" b="171"></viz:color>
+      </node>
+      <node id="27" label="의류산업학과">
+        <attvalues>
+          <attvalue for="degree" value="1.237"></attvalue>
+          <attvalue for="weight" value="1.237"></attvalue>
+          <attvalue for="category" value="신산업융합대"></attvalue>
+        </attvalues>
+        <viz:size value="18.874866"></viz:size>
+        <viz:position x="-985.3549" y="-481.8461"></viz:position>
+        <viz:color r="203" g="197" b="171"></viz:color>
+      </node>
+      <node id="28" label="체육과학부">
+        <attvalues>
+          <attvalue for="degree" value="1.117"></attvalue>
+          <attvalue for="weight" value="1.117"></attvalue>
+          <attvalue for="category" value="신산업융합대(체육과학부)"></attvalue>
+        </attvalues>
+        <viz:size value="13.827548"></viz:size>
+        <viz:position x="185.82076" y="-736.9625"></viz:position>
+        <viz:color r="132" g="75" b="120"></viz:color>
+      </node>
+      <node id="29" label="미래사회공학부">
+        <attvalues>
+          <attvalue for="degree" value="1.762"></attvalue>
+          <attvalue for="weight" value="1.762"></attvalue>
+          <attvalue for="category" value="엘텍공과대"></attvalue>
+        </attvalues>
+        <viz:size value="40.956886"></viz:size>
+        <viz:position x="-632.9499" y="-373.25885"></viz:position>
+        <viz:color r="0" g="196" b="114"></viz:color>
+      </node>
+      <node id="30" label="소프트웨어학부">
+        <attvalues>
+          <attvalue for="degree" value="1.641"></attvalue>
+          <attvalue for="weight" value="1.641"></attvalue>
+          <attvalue for="category" value="엘텍공과대"></attvalue>
+        </attvalues>
+        <viz:size value="35.867508"></viz:size>
+        <viz:position x="-48.989742" y="-16.67003"></viz:position>
+        <viz:color r="0" g="196" b="114"></viz:color>
+      </node>
+      <node id="31" label="차세대기술공학부">
+        <attvalues>
+          <attvalue for="degree" value="1.611"></attvalue>
+          <attvalue for="weight" value="1.611"></attvalue>
+          <attvalue for="category" value="엘텍공과대"></attvalue>
+        </attvalues>
+        <viz:size value="34.605675"></viz:size>
+        <viz:position x="-430.51663" y="-207.17206"></viz:position>
+        <viz:color r="0" g="196" b="114"></viz:color>
+      </node>
+      <node id="32" label="휴먼기계바이오공학부">
+        <attvalues>
+          <attvalue for="degree" value="1.513"></attvalue>
+          <attvalue for="weight" value="1.513"></attvalue>
+          <attvalue for="category" value="엘텍공과대"></attvalue>
+        </attvalues>
+        <viz:size value="30.483702"></viz:size>
+        <viz:position x="-290.45193" y="-262.8399"></viz:position>
+        <viz:color r="0" g="196" b="114"></viz:color>
+      </node>
+      <node id="33" label="의예과">
+        <attvalues>
+          <attvalue for="degree" value="1.518"></attvalue>
+          <attvalue for="weight" value="1.518"></attvalue>
+          <attvalue for="category" value="의과대"></attvalue>
+        </attvalues>
+        <viz:size value="30.694006"></viz:size>
+        <viz:position x="-663.77686" y="-578.0246"></viz:position>
+        <viz:color r="131" g="166" b="255"></viz:color>
+      </node>
+      <node id="34" label="의학과">
+        <attvalues>
+          <attvalue for="degree" value="1.232"></attvalue>
+          <attvalue for="weight" value="1.232"></attvalue>
+          <attvalue for="category" value="의과대"></attvalue>
+        </attvalues>
+        <viz:size value="18.664562"></viz:size>
+        <viz:position x="109.678795" y="-446.5014"></viz:position>
+        <viz:color r="131" g="166" b="255"></viz:color>
+      </node>
+      <node id="35" label="국어국문학과">
+        <attvalues>
+          <attvalue for="degree" value="1.886"></attvalue>
+          <attvalue for="weight" value="1.886"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="46.17245"></viz:size>
+        <viz:position x="-176.93452" y="616.3716"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="36" label="기독교학과">
+        <attvalues>
+          <attvalue for="degree" value="1.356"></attvalue>
+          <attvalue for="weight" value="1.356"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="23.880123"></viz:size>
+        <viz:position x="-739.87415" y="502.53824"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="37" label="독어독문학과">
+        <attvalues>
+          <attvalue for="degree" value="1.821"></attvalue>
+          <attvalue for="weight" value="1.821"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="43.438484"></viz:size>
+        <viz:position x="-437.14413" y="561.89764"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="38" label="불어불문학과">
+        <attvalues>
+          <attvalue for="degree" value="1.779"></attvalue>
+          <attvalue for="weight" value="1.779"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="41.67193"></viz:size>
+        <viz:position x="-389.20642" y="670.9362"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="39" label="사학과">
+        <attvalues>
+          <attvalue for="degree" value="1.607"></attvalue>
+          <attvalue for="weight" value="1.607"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="34.437435"></viz:size>
+        <viz:position x="-151.2371" y="561.51196"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="40" label="영어영문학부">
+        <attvalues>
+          <attvalue for="degree" value="1.785"></attvalue>
+          <attvalue for="weight" value="1.785"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="41.924286"></viz:size>
+        <viz:position x="-237.01665" y="743.0399"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="41" label="중어중문학과">
+        <attvalues>
+          <attvalue for="degree" value="1.445"></attvalue>
+          <attvalue for="weight" value="1.445"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="27.623556"></viz:size>
+        <viz:position x="-576.3955" y="725.551"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="42" label="철학과">
+        <attvalues>
+          <attvalue for="degree" value="1.797"></attvalue>
+          <attvalue for="weight" value="1.797"></attvalue>
+          <attvalue for="category" value="인문과학대"></attvalue>
+        </attvalues>
+        <viz:size value="42.429024"></viz:size>
+        <viz:position x="-433.14655" y="383.9818"></viz:position>
+        <viz:color r="0" g="217" b="235"></viz:color>
+      </node>
+      <node id="43" label="물리학과">
+        <attvalues>
+          <attvalue for="degree" value="1.114"></attvalue>
+          <attvalue for="weight" value="1.114"></attvalue>
+          <attvalue for="category" value="자연과학대"></attvalue>
+        </attvalues>
+        <viz:size value="13.7013645"></viz:size>
+        <viz:position x="-711.28094" y="-151.76225"></viz:position>
+        <viz:color r="255" g="99" b="137"></viz:color>
+      </node>
+      <node id="44" label="수학과">
+        <attvalues>
+          <attvalue for="degree" value="1.026"></attvalue>
+          <attvalue for="weight" value="1.026"></attvalue>
+          <attvalue for="category" value="자연과학대"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-907.4384" y="-1058.0538"></viz:position>
+        <viz:color r="255" g="99" b="137"></viz:color>
+      </node>
+      <node id="45" label="통계학과">
+        <attvalues>
+          <attvalue for="degree" value="1.185"></attvalue>
+          <attvalue for="weight" value="1.185"></attvalue>
+          <attvalue for="category" value="자연과학대"></attvalue>
+        </attvalues>
+        <viz:size value="16.687695"></viz:size>
+        <viz:position x="-776.5107" y="-777.5804"></viz:position>
+        <viz:color r="255" g="99" b="137"></viz:color>
+      </node>
+      <node id="46" label="화학생명분자과학부">
+        <attvalues>
+          <attvalue for="degree" value="1.659"></attvalue>
+          <attvalue for="weight" value="1.659"></attvalue>
+          <attvalue for="category" value="자연과학대"></attvalue>
+        </attvalues>
+        <viz:size value="36.624607"></viz:size>
+        <viz:position x="-414.80295" y="-319.2785"></viz:position>
+        <viz:color r="255" g="99" b="137"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="25" source="0" target="25" weight="0.067">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="0" target="34" weight="0.082">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="1" target="12" weight="0.083">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="1" target="16" weight="0.074">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="1" target="21" weight="0.066">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="1" target="23" weight="0.079">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="2" target="29" weight="0.072">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="2" target="31" weight="0.079">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="2" target="43" weight="0.125">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="2" target="46" weight="0.139">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="3" target="4" weight="0.082">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="3" target="23" weight="0.074">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="158" source="3" target="26" weight="0.063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="185" source="4" target="11" weight="0.061">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="223" source="5" target="8" weight="0.069">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="250" source="5" target="35" weight="0.135">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="252" source="5" target="37" weight="0.066">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="253" source="5" target="38" weight="0.064">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="255" source="5" target="40" weight="0.063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="256" source="5" target="41" weight="0.073">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="267" source="6" target="12" weight="0.078">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="270" source="6" target="15" weight="0.068">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="273" source="6" target="18" weight="0.074">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="276" source="6" target="21" weight="0.095">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="294" source="6" target="39" weight="0.112">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="338" source="7" target="44" weight="0.201">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="339" source="7" target="45" weight="0.1">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="372" source="8" target="40" weight="0.102">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="379" source="9" target="10" weight="0.135">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="416" source="10" target="11" weight="0.08">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="465" source="11" target="25" weight="0.033">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="490" source="12" target="16" weight="0.067">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="494" source="12" target="20" weight="0.063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="495" source="12" target="21" weight="0.087">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="537" source="13" target="30" weight="0.046">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="554" source="14" target="15" weight="0.065">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="587" source="15" target="17" weight="0.063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="588" source="15" target="18" weight="0.072">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="590" source="15" target="20" weight="0.08">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="591" source="15" target="21" weight="0.087">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="625" source="16" target="25" weight="0.046">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="654" source="17" target="25" weight="0.051">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="678" source="18" target="21" weight="0.076">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="696" source="18" target="39" weight="0.075">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="707" source="19" target="23" weight="0.073">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="710" source="19" target="26" weight="0.077">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="731" source="20" target="21" weight="0.067">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="770" source="21" target="35" weight="0.076">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="774" source="21" target="39" weight="0.08">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="775" source="21" target="40" weight="0.064">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="805" source="22" target="46" weight="0.07">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="808" source="23" target="26" weight="0.06">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="850" source="24" target="46" weight="0.064">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="859" source="25" target="34" weight="0.061">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="875" source="26" target="30" weight="0.068">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="893" source="27" target="29" weight="0.041">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="916" source="28" target="34" weight="0.051">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="930" source="29" target="31" weight="0.091">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="931" source="29" target="32" weight="0.071">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="945" source="29" target="46" weight="0.065">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="946" source="30" target="31" weight="0.099">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="947" source="30" target="32" weight="0.089">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="962" source="31" target="32" weight="0.104">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="973" source="31" target="43" weight="0.072">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="976" source="31" target="46" weight="0.098">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="990" source="32" target="46" weight="0.075">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1003" source="33" target="46" weight="0.116">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1015" source="34" target="46" weight="0.045">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1017" source="35" target="37" weight="0.096">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1018" source="35" target="38" weight="0.088">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1020" source="35" target="40" weight="0.095">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1021" source="35" target="41" weight="0.097">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1022" source="35" target="42" weight="0.08">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1032" source="36" target="42" weight="0.066">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1037" source="37" target="38" weight="0.104">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1038" source="37" target="39" weight="0.078">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1039" source="37" target="40" weight="0.116">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1040" source="37" target="41" weight="0.092">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1041" source="37" target="42" weight="0.075">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1046" source="38" target="39" weight="0.072">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1047" source="38" target="40" weight="0.112">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1048" source="38" target="41" weight="0.09">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1049" source="38" target="42" weight="0.073">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1054" source="39" target="40" weight="0.063">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1056" source="39" target="42" weight="0.084">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1061" source="40" target="41" weight="0.082">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1062" source="40" target="42" weight="0.076">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="False"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1067" source="41" target="42" weight="0.052">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1075" source="42" target="46" weight="0.028">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1078" source="43" target="46" weight="0.059">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1079" source="44" target="45" weight="0.077">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1081" source="45" target="46" weight="0.027">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="top" value="True"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
